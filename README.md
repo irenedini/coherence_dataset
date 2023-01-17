@@ -2,7 +2,8 @@
 
 ## Dataset Organization
 
-You can find a directory for each dataset (**Wikipedia** or **Ted**).
+In this repository you can find the dataset for the paper **Coherent or Not? Probing a Neural Language Model for Discourse
+Coherence in Multiple Languages**. The dataset is organised in two directories: **Wikipedia** and **Ted**.
 Each directory contains a subdirectory for each language (**en**, **es**, **fr**, **it** and **pt**).
 
 Inside the language directory there are two directories (positive configuration):
