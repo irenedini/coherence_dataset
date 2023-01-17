@@ -20,8 +20,8 @@ This two directories contain 5 subdirectories indicating how the negative target
 ## Dataset construction
 
 All the diffierent configurations share the same prompts.
-For what regards positive samples, they are always the same within the two positive configuration (forward or backwards). Across the two configuration, they share only the prompt, while the target sentence is the one following (forward) or preceding (backwards) the prompt.
-For wath regards negative examples, they also share the prompt across all positive and negative configurations. They differ in the way the target sentence is chosen.
+For what regards positive samples, they are always the same within the two positive configuration (forward or backwards). Across the two configurations, they share only the prompt, while the target sentence is the one following (forward) or preceding (backwards) the prompt.
+For what regards negative examples, they also share the prompt across all positive and negative configurations. They differ in the way the target sentence is chosen.
 
 ## Dataset dimension
 
